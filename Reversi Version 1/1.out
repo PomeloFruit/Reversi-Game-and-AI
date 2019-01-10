@@ -1,0 +1,27 @@
+Enter the board dimension:   abcd
+a UUUU
+b UWBU
+c UBWU
+d UUUU
+Enter board configuration: 
+  abcd
+a UUBU
+b BWBU
+c WBWU
+d UUUU
+Available moves for W: 
+aa 
+bd 
+db 
+Available moves for B: 
+ab 
+cd 
+da 
+dc 
+Enter a move: 
+Valid move.
+  abcd
+a UUBU
+b BWBU
+c WWWU
+d UWUU
